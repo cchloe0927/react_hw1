@@ -1,4 +1,5 @@
-깃허브 어려워 
+this is sparta react homework.
+title : make reviewsite for one week
 
 # Getting Started with Create React App
 
